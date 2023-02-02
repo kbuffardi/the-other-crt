@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+kramdown:
+  parse_block_html: true
+title: Learn by Failure
+description: "Codewit.us: A Platform for Diverse Perspectives in Coding"
+url: "https://learnbyfailure.com"
+search_enabled: false
