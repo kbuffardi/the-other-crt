@@ -30,7 +30,7 @@ interests because of cognitive biases.
 ![Daniel Kahneman, Nobel Prize winner and best-selling
 author](kahneman.jpg)
 
-^Photo ^courtesy ^of ^Proximus.be
+Photo courtesy of Proximus.be
 
 In Kahneman’s best-selling book *Thinking, Fast and Slow* he described
 our brain’s two systems of decision-making:
