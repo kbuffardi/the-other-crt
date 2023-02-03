@@ -22,12 +22,32 @@ First, let's begin with a few [questions in a poll](https://pollev.com/kbuffardi
 
 ![QR Code for pollev.com/kbuffardi](qr-polleverywhere.png)
 
+## Behavioral Economics
 
+The **Cognitive Reflection Test** ([Frederick 2005](https://doi.org/10.1257%2F089533005775196732)) was motivated by Tversky and Kahneman's research that lead to a Nobel Prize in Economics. They identified how consumers do not act in their rational best interests because of cognitive biases.
+
+![Daniel Kahneman, Nobel Prize winner and best-selling author](kahneman.jpg)
+^Photo courtesy of Proximus.be
+
+In Kahneman's best-selling book *Thinking, Fast and Slow* he described our brain's two systems of decision-making:
+
+* **System 1** is fast and reflexive and particularly susceptible to our emotions and intuitions
+* **System 2** is slower, deliberate, and utilizes conscious calculations and reasoning
+
+The **Cognitive Reflection Test** is a proxy for how likely an individual is to inhibit System 1 and demonstrate **Cognitive Reflection** (using System 2). It is inversely correlated with:
+
+  * Gambler's fallacy
+  * Sunk cost fallacy
+  
+**In what ways might "Cognitive Reflection" play a role in software engineering?**
+
+**Discuss and share**: [tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
 
 
 # Full Paper
 
 The full paper will be available soon.
+
 <!--
 [ACM Digital library](https://doi.org/10.1145/3502718.3524778)
 
