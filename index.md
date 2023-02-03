@@ -28,7 +28,9 @@ They identified how consumers do not act in their rational best
 interests because of cognitive biases.
 
 ![Daniel Kahneman, Nobel Prize winner and best-selling
-author](kahneman.jpg) ^Photo courtesy of Proximus.be
+author](kahneman.jpg)
+
+^Photo ^courtesy ^of ^Proximus.be
 
 In Kahneman’s best-selling book *Thinking, Fast and Slow* he described
 our brain’s two systems of decision-making:
@@ -50,6 +52,44 @@ engineering?**
 
 **Discuss and share**:
 [tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
+
+## Inspecting Code
+
+Does this function produce the described behavior?
+
+![isPalindrome function](isPalindrome.png)
+
+Does this function produce the described behavior?
+
+![sortDescending function](sortDescending.png)
+
+## Testing
+
+**Test outcomes vs. Production**
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: right;"></th>
+<th style="text-align: right;">Fail</th>
+<th style="text-align: right;">Pass</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">Working</td>
+<td style="text-align: right;">🤨</td>
+<td style="text-align: right;">🙌</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">Buggy</td>
+<td style="text-align: right;">🧐</td>
+<td style="text-align: right;">🪳</td>
+</tr>
+</tbody>
+</table>
+
+![Test accuracy](accuracy-components.png)
 
 # Full Paper
 

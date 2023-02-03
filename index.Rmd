@@ -27,7 +27,8 @@ First, let's begin with a few [questions in a poll](https://pollev.com/kbuffardi
 The **Cognitive Reflection Test** ([Frederick 2005](https://doi.org/10.1257%2F089533005775196732)) was motivated by Tversky and Kahneman's research that lead to a Nobel Prize in Economics. They identified how consumers do not act in their rational best interests because of cognitive biases.
 
 ![Daniel Kahneman, Nobel Prize winner and best-selling author](kahneman.jpg)
-^Photo courtesy of Proximus.be
+
+^Photo ^courtesy ^of ^Proximus.be
 
 In Kahneman's best-selling book *Thinking, Fast and Slow* he described our brain's two systems of decision-making:
 
@@ -42,6 +43,30 @@ The **Cognitive Reflection Test** is a proxy for how likely an individual is to 
 **In what ways might "Cognitive Reflection" play a role in software engineering?**
 
 **Discuss and share**: [tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
+
+
+## Inspecting Code
+
+Does this function produce the described behavior?
+
+![isPalindrome function](isPalindrome.png)
+
+Does this function produce the described behavior?
+
+![sortDescending function](sortDescending.png)
+
+## Testing
+
+**Test outcomes vs. Production**
+
+|         | Fail | Pass |
+|--------:|-----:|-----:|
+| Working |   🤨 |   🙌 |
+|   Buggy |   🧐 |   🪳 |
+
+
+![Test accuracy](accuracy-components.png)
+
 
 
 # Full Paper
