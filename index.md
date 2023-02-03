@@ -65,7 +65,7 @@ Does this function produce the described behavior?
 
 ## Testing
 
-**Test outcomes vs. Production**
+**Test outcomes vs. Implementation**
 
 <table>
 <thead>
@@ -90,6 +90,35 @@ Does this function produce the described behavior?
 </table>
 
 ![Test accuracy](accuracy-components.png)
+
+# Results
+
+## CRT vs Inspection
+
+-   CRT was **not a significant predictor** (p=0.329) of students’
+    **affirmation of acceptable code**.
+-   CRT was a **significant predictor** of students rejecting defective
+    code (p&lt;0.0001) with the log odds of **correctly rejecting the
+    defective code** increasing by 2.94 (95% CI 1.56-4.50).
+    -   When considering only students who proposed cases that caused a
+        defect, we found that **CRT was a significant predictor**
+        (p&lt;0.001) of students **identifying a defective case** with
+        the log odds of doing so increasing by 2.37 (95% CI 1.05-3.86)
+
+## CRT vs Testing
+
+-   CRT was **not correlated with test accuracy** (ρ=0.940, p=0.008).
+    -   Test effectiveness (M=0.66, sd=0.27) was **not correlated with
+        CRT** (ρ=0.140, p=0.159)
+    -   Test affirmation (M=0.76, sd=0.17) was **not correlated with
+        CRT** (ρ= -0.199, p=0.045)
+
+## Conclusions
+
+**How would you interpret the results?**
+
+**Discuss and share**:
+[tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
 
 # Full Paper
 
