@@ -50,9 +50,6 @@ Reflection** (using System 2). It is inversely correlated with:
 **In what ways might “Cognitive Reflection” play a role in software
 engineering?**
 
-**Discuss and share**:
-[tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
-
 ## Inspecting Code
 
 Does this function produce the described behavior?
@@ -116,9 +113,6 @@ Does this function produce the described behavior?
 ## Conclusions
 
 **How would you interpret the results?**
-
-**Discuss and share**:
-[tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
 
 # Full Paper
 

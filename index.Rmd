@@ -42,7 +42,6 @@ The **Cognitive Reflection Test** is a proxy for how likely an individual is to 
   
 **In what ways might "Cognitive Reflection" play a role in software engineering?**
 
-**Discuss and share**: [tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
 
 
 ## Inspecting Code
@@ -87,7 +86,6 @@ defective case** with the log odds of doing so increasing by 2.37 (95% CI 1.05-3
 
 **How would you interpret the results?**
 
-**Discuss and share**: [tinyurl.com/the-other-crt](https://tinyurl.com/the-other-crt)
 
 # Full Paper
 
